@@ -1,4 +1,4 @@
-# Similarities_in_Funds
+# Similarity_in_Funds
 Cosine similarity, Spearman correlation, DTW algorithm, and SAX transformation
 
 # Description
